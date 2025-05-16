@@ -24,3 +24,7 @@ npm run dev
 I'll generate the MIT license for you now.
 
 Would you like me to use your GitHub name on it or just say “Astria Project”?
+git add LICENSE
+git commit -m "Add MIT license"
+git push
+
